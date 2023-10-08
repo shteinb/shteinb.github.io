@@ -1,0 +1,13 @@
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #e0e0e0;
+    padding: 8px 16px;
+    margin-bottom: 8px;
+    border-radius: 5px;
+}
+
+.todo-item .form-check-input {
+    margin-right: 16px;
+}
